@@ -1,0 +1,6 @@
+<javascript>
+$(function(){
+
+
+})
+</javascript>
